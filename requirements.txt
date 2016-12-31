@@ -1,5 +1,6 @@
 Django==1.8.17
 django-admin-bootstrapped==2.5.7
 django-bootstrap3==7.1.0
+django-mathfield==0.1.0
 post==0.0.0
 setupfiles==0.0.0
